@@ -5,7 +5,7 @@ object rosa {
 
     method leGusta(unObjeto){
         return unObjeto.peso() <= 2000
-    } 
+    }
 }
 
 object estefania {
